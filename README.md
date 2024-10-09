@@ -5,13 +5,6 @@
   I'm passionate about learning and growing in both CyberSecurity and Full Stack Development. Always looking for opportunities to expand my knowledge and contribute to interesting projects.
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://discord.com/users/yousifwrld" target="_blank">
-    <img src="https://img.shields.io/badge/-Discord-%7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
