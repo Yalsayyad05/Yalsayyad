@@ -33,7 +33,7 @@
   </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousifwrld&show_icons=true&locale=en&layout=compact" alt="yousifwrld" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousifwrld&show_icons=true&locale=en&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=yousifwrld&theme=tokyonight" alt="yousifwrld" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yousifwrld&show_icons=true&locale=en" alt="yousifwrld" /></p>
 
