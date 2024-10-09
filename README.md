@@ -34,16 +34,11 @@
 </p>
 
 <h3 align="left">Top Languages:</h3>
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousifwrld&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <h3 align="left">GitHub Stats:</h3>
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=yousifwrld&show_icons=true&locale=en&theme=tokyonight" alt="yousifwrld" />
-</p>
-
-<h3 align="left">Streak Stats:</h3>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yousifwrld&theme=tokyonight" alt="Streak Stats" />
 </p>
